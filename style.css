@@ -1,0 +1,49 @@
+.center-top {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+    height: auto;
+
+
+}
+
+#firsth2 {
+
+    text-align: center;
+    font-family:Bebas Neue ;
+}
+
+#firsth3 {
+
+    font-family: Bebas Neue;
+    background-image: linear-gradient(yellow,white);
+    background-clip: text;
+    color: transparent;
+}
+
+hr {
+    border: solid;
+    border-color: black;
+}
+
+body {
+
+    background-image:url(R.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#firstp {
+    font-family: Quicksand;
+    color: aliceblue;
+}
+#secondp {
+    font-family: Quicksand;
+    color: aliceblue;
+}
+
+#secondh2 {
+    font-family: Bebas Neue;
+    color: white;
+}
